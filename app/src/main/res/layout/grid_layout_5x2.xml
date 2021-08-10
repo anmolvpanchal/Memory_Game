@@ -27,14 +27,13 @@
                 android:layout_height="wrap_content"
                 android:layout_centerInParent="true"
                 android:fontFamily="sans-serif-condensed-light"
-                android:text="Grid 5 X 2"
+                android:text="@string/grid_5_x_2"
                 android:textColor="@color/black"
                 android:textSize="25sp" />
         </RelativeLayout>
     </androidx.appcompat.widget.Toolbar>
 
-    <GridLayout xmlns:android="http://schemas.android.com/apk/res/android"
-        xmlns:tools="http://schemas.android.com/tools"
+    <GridLayout xmlns:tools="http://schemas.android.com/tools"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:layout_below="@+id/toolbar_layout"

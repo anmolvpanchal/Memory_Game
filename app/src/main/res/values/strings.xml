@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Memory game</string>
+    <string name="grid_3_x_4">Grid 3 X 4</string>
+    <string name="grid_4_x_4">Grid 4 X 4</string>
+    <string name="grid_4_x_5">Grid 4 X 5</string>
+    <string name="grid_5_x_2">Grid 5 X 2</string>
 </resources>
